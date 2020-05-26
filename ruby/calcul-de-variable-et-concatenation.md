@@ -1,0 +1,1 @@
+# Calcul de variables et concaténation
